@@ -22,8 +22,10 @@ public class Negative {
 //        }
         char c = '刘';
         printCharToBinary(c);
-
-
+        int x = 1, y = 2;
+        String s = "x,y";
+        s += ",zzz";
+        System.out.println(s + (x + y));
 //        int y = 0xff;
 //        System.out.println(y);
 //        System.out.println(Integer.toBinaryString(y));
