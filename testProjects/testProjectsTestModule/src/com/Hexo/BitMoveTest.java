@@ -1,5 +1,5 @@
 package com.Hexo;
-
+import static com.Print.*;
 /**
  * Created by liu_y.
  * On 2016/9/27.
@@ -19,5 +19,6 @@ public class BitMoveTest {
         System.out.println(Integer.toBinaryString(a >> 1));
         a = (a >> 10);
         System.out.println(Integer.toBinaryString(a));
+        print(a);
     }
 }
