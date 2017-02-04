@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4cd22f3-cf26-4717-9e0c-1770190f6890" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package2/MyMailClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/package2/MailClient.java" afterPath="$PROJECT_DIR$/src/package2/MailClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/package3/MyMailClient.java" afterPath="$PROJECT_DIR$/src/package3/MyMailClient.java" />
     </list>
     <ignored path="Thinking.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,8 +69,8 @@
       <file leaf-file-name="MyMailClient.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/package3/MyMailClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="372">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#196#197#0" expanded="true" />
@@ -1040,12 +1037,20 @@
       <workItem from="1485777008460" duration="1808000" />
       <workItem from="1486126719045" duration="27000" />
       <workItem from="1486126802955" duration="645000" />
-      <workItem from="1486175399486" duration="2089000" />
+      <workItem from="1486175399486" duration="2219000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1486177507046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486177507046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45034000" />
+    <option name="totallyTimeSpent" value="45164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1128,7 +1133,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1580,8 +1586,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/package3/MyMailClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="372">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#196#197#0" expanded="true" />
