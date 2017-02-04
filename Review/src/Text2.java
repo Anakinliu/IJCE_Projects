@@ -6,9 +6,6 @@ public class Text2 {
         if (n <= 1) {
             return false;
         }
-        if (n == 2) {
-            return true;
-        }
         else {
             int i;
             for (i = 2; i <= n-1; i++) {
@@ -24,7 +21,7 @@ public class Text2 {
     }
     public static void main(String[] args) {
         int sum = 0;
-        for (int i = 100; i <= 103; i++) {
+        for (int i = 1; i <= 2; i++) {
             if (is(i)) {
                 sum = sum + i;
             }

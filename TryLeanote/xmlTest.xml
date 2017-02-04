@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="hubSet08">
+  <goals>
+    <sendemail recipient="gila" subject="MedicalRecord - Sandburg_Jonas" />
+  </goals>
+  <nextMission>MainHub/Continuations/FirstSet08_Reply.xml</nextMission>
+  <posting title="Investigate a medical record">
+Get a copy of someone's medical record to settle an argument.
+  </posting>
+  <email id = "1" name = "liu" number = "+86">
+    <sender same = "0">CSEC Hub Services</sender>
+    <subject><what>ss1's text<To>me</To></what></subject>
+    <body>Thanks!</body>
+    <attachments>linux</attachments>
+  </email>
+</mission>

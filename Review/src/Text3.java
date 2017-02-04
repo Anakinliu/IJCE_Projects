@@ -8,13 +8,17 @@ public class Text3 {
     Text3(int n) {
         //n是行数
         arr = new int[n][];
+
         int j,i;
         for (i=0; i<n; i++) {
             arr[i] = new int[i+1];
+
             arr[i][0] = 1;
+
             for (j=1; j<i; j++) {
                 arr[i][j] = arr[i-1][j] + arr[i-1][j-1];
             }
+
             if (j == i)
             arr[i][j] = 1;
         }
