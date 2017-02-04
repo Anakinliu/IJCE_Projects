@@ -1,4 +1,4 @@
-package package3;
+package package2;
 
 import package1.Mail;
 import package2.MailClient;
@@ -9,6 +9,6 @@ import package2.MailClient;
  */
 public class MyMailClient extends MailClient {
     Mail getCore() {
-        return this.new MailCore();
+        return new MailCore();
     }
 }

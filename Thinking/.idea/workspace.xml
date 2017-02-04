@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4cd22f3-cf26-4717-9e0c-1770190f6890" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterfaceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewSwitch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pratice16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pratice17.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Time.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package1/Mail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package2/MailClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package3/MyMailClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/AbstractExtendsInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/AbstractTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/Apply.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/Ex4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/ExtendMoreInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/InterfInInterf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/NameFire.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/Pratice18.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/Pratice19.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/Pratice9_8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/RTTItest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/RandomWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/Rodent14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymorphismANDinterface/StringProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/print/Print.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Review/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Review/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Review/src/Text2.java" afterPath="$PROJECT_DIR$/../Review/src/Text2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Review/src/Text3.java" afterPath="$PROJECT_DIR$/../Review/src/Text3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Review/src/Text4.java" afterPath="$PROJECT_DIR$/../Review/src/Text4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package2/MyMailClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/package2/MailClient.java" afterPath="$PROJECT_DIR$/src/package2/MailClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/package3/MyMailClient.java" afterPath="$PROJECT_DIR$/src/package3/MyMailClient.java" />
     </list>
     <ignored path="Thinking.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,10 +60,10 @@
         <entry file="file://$PROJECT_DIR$/src/package2/MailClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="372">
-              <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,6 +77,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyMailClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/package2/MyMailClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#233#234#0" expanded="true" />
               </folding>
             </state>
@@ -139,6 +125,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="Thinking" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Anakinliu" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="IJCE_Projects" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -180,8 +171,9 @@
         <option value="$PROJECT_DIR$/src/polymorphismANDinterface/RandomWords.java" />
         <option value="$PROJECT_DIR$/src/polymorphismANDinterface/Pratice18.java" />
         <option value="$PROJECT_DIR$/src/package1/Mail.java" />
-        <option value="$PROJECT_DIR$/src/package2/MailClient.java" />
+        <option value="$PROJECT_DIR$/src/package2/MyMailClient.java" />
         <option value="$PROJECT_DIR$/src/package3/MyMailClient.java" />
+        <option value="$PROJECT_DIR$/src/package2/MailClient.java" />
       </list>
     </option>
   </component>
@@ -1048,12 +1040,12 @@
       <workItem from="1485777008460" duration="1808000" />
       <workItem from="1486126719045" duration="27000" />
       <workItem from="1486126802955" duration="645000" />
-      <workItem from="1486175399486" duration="674000" />
+      <workItem from="1486175399486" duration="2089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43619000" />
+    <option name="totallyTimeSpent" value="45034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1163,13 +1155,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TestStringSplit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -1574,10 +1559,21 @@
     <entry file="file://$PROJECT_DIR$/src/package2/MailClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package2/MyMailClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1589,7 +1585,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
