@@ -242,7 +242,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -1002,7 +1002,7 @@
       <workItem from="1503447559488" duration="635000" />
       <workItem from="1503990452014" duration="8456000" />
       <workItem from="1504052015862" duration="3755000" />
-      <workItem from="1504057390015" duration="3478000" />
+      <workItem from="1504057390015" duration="3510000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1486177507046</created>
@@ -1022,10 +1022,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299194000" />
+    <option name="totallyTimeSpent" value="299226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5464509" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
