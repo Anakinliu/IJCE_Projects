@@ -9,130 +9,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/Generics/TupleTest.kt" line="19" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cd22f3-cf26-4717-9e0c-1770190f6890" name="Default" comment="add by intellij">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstWebProjects/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstWebProjects/web/hello/hello_test.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Haskell_Project/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Network/src/TestUUID.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/json_20160810.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/ClassCasts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/ClassInitialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/Exercise8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/GenericToyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/OnlyOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/Shapes4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/ShowAll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/SweetShop7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ClassDetails/ToyTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Concurrency/Ex1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Concurrency/Ex2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Concurrency/FaceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Concurrency/MyCallable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Concurrency/SleepingTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Concurrency/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DSAA/CovariantArrayType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DSAA/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Essay/MyAudio.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/BasicGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/BasicGeneratorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/CoffeeGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/ContainerMethodDifferences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Generators.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/GenericMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/GenericVarargs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Holder2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Holder3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/IterableFibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/IterableFibonacci2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/LinkedStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/New.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/RandomList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Sets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/ThreeTuple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Tuple2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/TupleTest.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/TupleTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/TwoTuple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/WatercolorSets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics/Watercolors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/AddingGroups.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/AsListInference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex7_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Ex9_Hold_List.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Fruits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/ListFeatures.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HoldingObjects/newCollection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Http/ClientConnection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Http/TcpServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Http/ThreadTcpServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/ClassInInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Controller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Factories.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Games.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/GreenhouseController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/GreenhouseController2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/GreenhouseControls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/HorrorShow14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/LocalInnerClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/MultiNestingAccess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Parcel10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Parcel5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Parcel7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Parcel8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Parcel9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Practice12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Practice13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Practice15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Practice23.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Pratice10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Pratice7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Pratice9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/QQQ.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/TestClassInInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InnerClass/Winner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JSON/JSONSimple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java8/BianYiYouHuaWenTi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Java8/TimeAndDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Operators/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Serializable/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/Format_printf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/InfiniteRecursion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/TestChinese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/class.puml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/uml.puml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Traps/IntegerTrap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package1/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package1/TestLamdba.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TomcatMP/.idea/libraries/gson_2_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TomcatMP/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TomcatMP/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TomcatMP/src/cn/anakinliu/test/Servlet2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jsttyGo/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../KaoShi/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../KaoShi/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Review/src/Text13.java" afterPath="$PROJECT_DIR$/../Review/src/Text13.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="a4cd22f3-cf26-4717-9e0c-1770190f6890" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thinking.iml" afterPath="$PROJECT_DIR$/Thinking.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/package1/Mail.java" afterPath="$PROJECT_DIR$/src/package1/Mail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/print/Print.java" afterPath="$PROJECT_DIR$/src/print/Print.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WebTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../WebTest/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsideClass/Outer.java" afterPath="$PROJECT_DIR$/src/InnerClass/Outer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsideClass/Parcel1.java" afterPath="$PROJECT_DIR$/src/InnerClass/Parcel1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsideClass/Parcel2.java" afterPath="$PROJECT_DIR$/src/InnerClass/Parcel2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InsideClass/Sequence.java" afterPath="$PROJECT_DIR$/src/InnerClass/Sequence.java" />
     </list>
     <ignored path="Thinking.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -178,8 +56,8 @@
       <file leaf-file-name="ContainerMethodDifferences.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Generics/ContainerMethodDifferences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1119">
-              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="231">
+              <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -362,9 +240,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -417,12 +296,6 @@
               <item name="Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Thinking" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Generics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -525,7 +398,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TomcatMP" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -1129,7 +1002,7 @@
       <workItem from="1503447559488" duration="635000" />
       <workItem from="1503990452014" duration="8456000" />
       <workItem from="1504052015862" duration="3755000" />
-      <workItem from="1504057390015" duration="3214000" />
+      <workItem from="1504057390015" duration="3478000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1486177507046</created>
@@ -1138,15 +1011,21 @@
       <option name="project" value="LOCAL" />
       <updated>1486177507046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add by intellij">
+      <created>1504061204587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504061204587</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298930000" />
+    <option name="totallyTimeSpent" value="299194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5464509" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1155,11 +1034,11 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32762557" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31672204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28538814" sideWeight="0.528125" order="9" side_tool="true" content_ui="tabs" x="1075" y="682" width="720" height="411" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31621003" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31621003" sideWeight="0.50208336" order="9" side_tool="true" content_ui="tabs" x="1075" y="682" width="720" height="411" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11927083" sideWeight="0.44407532" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18645833" sideWeight="0.44407532" order="9" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1218,6 +1097,42 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1577,6 +1492,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1584,6 +1500,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#299#300#0" expanded="false" />
+            <element signature="e#335#336#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1598,6 +1519,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1663,8 +1587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Generics/ContainerMethodDifferences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1119">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="231">
+          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
