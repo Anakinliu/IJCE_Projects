@@ -7,8 +7,9 @@ import java.nio.channels.FileChannel;
  * Created by Anakinliu on 2017/1/5.
  */
 public class Text13 {
+    public static boolean saved;
+
     public static void fileCopy(String in, String out) {
-        //ÉùÃ÷in,outÍ¨µÀ
         FileChannel inChannel;
         FileChannel outChannel;
         try {
@@ -31,10 +32,9 @@ public class Text13 {
         } catch (Exception e) {
             e.printStackTrace();
     }
-
     }
 
     public static void main(String[] args) {
-        fileCopy("F:/java¿¼/a.txt","F:/java¿¼/b.txt");
+        fileCopy("F:/javaï¿½ï¿½/a.txt","F:/javaï¿½ï¿½/b.txt");
     }
 }

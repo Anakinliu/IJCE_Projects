@@ -5,7 +5,7 @@ package print;
  */
 public class Print {
     public static void println(Object s) {
-        System.out.println(s);
+        System.out.print(s);
     }
 
     public static void print(Object o) {

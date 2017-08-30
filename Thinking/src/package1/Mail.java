@@ -6,4 +6,5 @@ package package1;
  */
 public interface Mail {
     void sentMail();
+
 }

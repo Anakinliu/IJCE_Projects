@@ -1,4 +1,4 @@
-package InsideClass;
+package InnerClass;
 
 /**
  * Created by Anakinliu.
@@ -6,7 +6,12 @@ package InsideClass;
  */
 public class Outer {
     int i = 9;
-    class Inner {
+     class Inner {
+
+
+        class Ininer {
+
+        }
 
         public void showInner() {
             System.out.println("I'am Outer.Inner.");
@@ -18,8 +23,8 @@ public class Outer {
 
     public static void main(String[] args) {
         Outer outer = new Outer();
-        Inner s = outer.returnInner();
-        s.showInner();
+        Inner inner = outer.returnInner();
+        inner.showInner();
 
     }
 }

@@ -1,4 +1,4 @@
-package InsideClass;
+package InnerClass;
 
 /**
  * Created by Anakinliu.
