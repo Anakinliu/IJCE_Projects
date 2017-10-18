@@ -47,10 +47,18 @@ public class ContainerMethodDifferences {
     }
 
     public static void main(String[] args) {
-        //System.out.println("Collection: " + methodSet(String.class));
-        //interfaces(String.class);
-        //difference(Collection.class, Set.class);
-        difference(LinkedHashSet.class, HashSet.class);
+        System.out.println("Collection: " + methodSet(String.class));
+        interfaces(String.class);
+        difference(Collection.class, Set.class);
+        difference(TreeSet.class, Set.class);
         System.out.println("LinkedHashSet: " + methodSet(String.class));
+        int x = 333;
+        System.out.println(0x00000007 << -4); //-2147483648
+                                              //1879048192
+        System.out.println(0xfffffff8);
+        System.out.println(0x8fffffff >> -4);
+        System.out.println(Long.rotateLeft(0x0000000000000007L
+                , 2));
+        System.out.println(0x000000000000001cL | 0x0000000000000000L);
     }
 }

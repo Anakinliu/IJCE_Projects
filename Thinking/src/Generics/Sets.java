@@ -1,5 +1,6 @@
 package Generics;
 
+import java.util.EnumSet;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -16,7 +17,14 @@ public class Sets {
     并集
      */
     public static <T> Set<T> union(Set<T> a, Set<T> b) {
+        if (a instanceof EnumSet) {
+            Set<T> result = ((EnumSet) a).clone();
+            result.addAll(b);
+            return result; //是时候return了
+        }
         Set<T> result = new HashSet<>(a);
+        result.addAll(b);
+
         result.addAll(b);
         return result;
     }
