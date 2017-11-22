@@ -1,17 +1,16 @@
 <%--
   Created by IntelliJ IDEA.
   User: Anakinliu
-  Date: 17.11.5
-  Time: 19:35
+  Date: 17.11.22
+  Time: 8:48
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Main-Home</title>
+    <title>Title</title>
 </head>
 <body>
-<p >${userName}</p>
-<p >${lastLoginDate}</p>
+
 </body>
 </html>
