@@ -19,7 +19,12 @@ public class MysqlConnector {
 //    private  String DB_USER = null;
 //    private  String DB_USER_PASSWD = null;
 
-    private Connection con = null;
+    private static Connection con = null;
+
+    public static Connection getConnection() {
+        return con;
+    }
+
     /*
      * 实例化类时就打开数据库连接
      */

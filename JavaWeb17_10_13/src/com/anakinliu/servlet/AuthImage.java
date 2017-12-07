@@ -41,6 +41,11 @@ public class AuthImage extends HttpServlet {
 
     public static String code;
 
+    @Override
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        doGet(req, resp);
+    }
+
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 
@@ -115,11 +120,14 @@ public class AuthImage extends HttpServlet {
                 c = (char)(Math.random() * 9 + 48);
                 break;
             case 2:
-                c = (char) (Math.random() * 26 + 65);
+//                c = (char) (Math.random() * 26 + 65);
+//                break;
+                c = (char)(Math.random() * 9 + 48);
                 break;
-
             default:
-                c = (char) (Math.random() * 26 + 97);
+//                c = (char) (Math.random() * 26 + 97);
+//                break;
+                c = (char)(Math.random() * 9 + 48);
                 break;
         }
         return String.valueOf(c);
