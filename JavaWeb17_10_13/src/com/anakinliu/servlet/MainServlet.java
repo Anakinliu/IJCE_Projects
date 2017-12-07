@@ -1,5 +1,7 @@
 package com.anakinliu.servlet;
 
+import com.anakinliu.tools.BookSQL;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
@@ -24,54 +26,78 @@ public class MainServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        // 处理用户的筛选
+        HttpSession session = req.getSession();
+        String title = req.getParameter("title");
+        String pubID = req.getParameter("pub");
 
-
-
-        HttpSession session = req.getSession(true);
-
-        session.setMaxInactiveInterval(3000); //seconds unit
-
-        // 增加次数
-        long loginTimesValue = 1L;
-
-        boolean exists = false;
-        Enumeration enumeration = session.getAttributeNames();
-        while (enumeration.hasMoreElements()) {
-            String attributeName = (String)enumeration.nextElement();
-            if (attributeName.equals(LOGIN_TIMES)) {
-                exists = true;
-                break;
+        if (title == null || pubID == null) {  // 默认排序
+            System.out.println("all null...");
+            session.setAttribute("books_list", BookSQL.search());
+            resp.sendRedirect("\\jsps\\Main.jsp");
+        } else {
+            if (!title.equals("") && !pubID.equals("")) {
+                System.out.println("all have value, they are " +
+                title + " , " + pubID);
+            }
+            if (pubID.equals("") ) {
+                System.out.println("in title: " + title);
+                session.setAttribute("books_list", BookSQL.searchByTitle(title));
+                resp.sendRedirect("\\jsps\\Main.jsp");
+            }
+            if (title.equals("") && !pubID.equals("")) {
+                System.out.println("in pubID: " + pubID);
+                int intID = Integer.valueOf(pubID);
+                session.setAttribute("books_list", BookSQL.searchBypubID(intID));
+                resp.sendRedirect("\\jsps\\Main.jsp");
             }
         }
-        if (!exists) {
-            session.setAttribute(LOGIN_TIMES, 0L);
-        } else {
-            loginTimesValue = (Long)session.getAttribute(LOGIN_TIMES);
-            loginTimesValue += 1;
-            session.setAttribute(LOGIN_TIMES, loginTimesValue);
-        }
 
-        // to Main jsp
-        String wUsername = req.getParameter("un");
-        String lastLoginTime = (String)session.getAttribute(LAST_LOGIN_DATE);
-        if (lastLoginTime == null) {
-            String s = "这是第一次登录!";
-            req.setAttribute("lastLoginDate", s);
-        }else {
-            lastLoginTime =  "上次登录时间: " + lastLoginTime ;
-            System.out.println(lastLoginTime);
-            req.setAttribute("lastLoginDate", lastLoginTime);
-        }
-        req.setAttribute("userName", wUsername);
-        req.getRequestDispatcher("\\jsps\\Main.jsp").forward(req, resp);
-
-        DateFormat dateFormat =
-                new SimpleDateFormat("yyyy'年'MM'月'dd'日 'HH:mm:ss");
-        String stringDate = dateFormat.format(new Date());
-        session.setAttribute(LAST_LOGIN_DATE, stringDate);
-
-        req.getCookies();
-        resp.addCookie(new Cookie("anakinliu", session.getId()));
+//        HttpSession session = req.getSession(true);
+//
+//        session.setMaxInactiveInterval(3000); //seconds unit
+//
+//        // 增加次数
+//        long loginTimesValue = 1L;
+//
+//        boolean exists = false;
+//        Enumeration enumeration = session.getAttributeNames();
+//        while (enumeration.hasMoreElements()) {
+//            String attributeName = (String)enumeration.nextElement();
+//            if (attributeName.equals(LOGIN_TIMES)) {
+//                exists = true;
+//                break;
+//            }
+//        }
+//        if (!exists) {
+//            session.setAttribute(LOGIN_TIMES, 0L);
+//        } else {
+//            loginTimesValue = (Long)session.getAttribute(LOGIN_TIMES);
+//            loginTimesValue += 1;
+//            session.setAttribute(LOGIN_TIMES, loginTimesValue);
+//        }
+//
+//        // to Main jsp
+//        String wUsername = req.getParameter("un");
+//        String lastLoginTime = (String)session.getAttribute(LAST_LOGIN_DATE);
+//        if (lastLoginTime == null) {
+//            String s = "这是第一次登录!";
+//            req.setAttribute("lastLoginDate", s);
+//        }else {
+//            lastLoginTime =  "上次登录时间: " + lastLoginTime ;
+//            System.out.println(lastLoginTime);
+//            req.setAttribute("lastLoginDate", lastLoginTime);
+//        }
+//        req.setAttribute("userName", wUsername);
+//        req.getRequestDispatcher("\\jsps\\Main.jsp").forward(req, resp);
+//
+//        DateFormat dateFormat =
+//                new SimpleDateFormat("yyyy'年'MM'月'dd'日 'HH:mm:ss");
+//        String stringDate = dateFormat.format(new Date());
+//        session.setAttribute(LAST_LOGIN_DATE, stringDate);
+//
+//        req.getCookies();
+//        resp.addCookie(new Cookie("anakinliu", session.getId()));
     }
 
     @Override

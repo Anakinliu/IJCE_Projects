@@ -5,12 +5,23 @@
   Time: 8:48
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
-<head>
-    <title>Title</title>
-</head>
-<body>
+<% String userName = (String)session.getAttribute("un");%>
+<div class="navbar navbar-inverse">
+    <a>
+        HI!
+        <%
+            if (userName != null) {
+                out.print(userName);
+            } else {
+                out.print("<a href=\"\\jsps\\LoginJump.jsp\">" +
+                        "Please Login" +
+                        "</a>");
+            }
+        %>
+    </a>
+    <a href="#home">Home</a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>
+    <a href="/LogoutServlet">Logout</a>
+</div>
 
-</body>
-</html>
