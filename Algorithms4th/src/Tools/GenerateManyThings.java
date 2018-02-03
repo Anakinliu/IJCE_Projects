@@ -50,6 +50,6 @@ public final class GenerateManyThings {
     }
 
     public static void main(String[] args) {
-        generateAllNumber(1000000, 1000000000000L);
+        generateAllNumber(4000, 100L);
     }
 }

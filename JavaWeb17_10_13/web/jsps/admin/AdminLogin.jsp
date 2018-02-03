@@ -21,7 +21,7 @@
     </p>
     <p  align="center">&nbsp;</p>
     <h1 class="button-caution" style="text-align:center;">
-        实验室管理员登录系统 </h1>
+        管理员登录 </h1>
 
 </div>
 <p  align="center">&nbsp;

@@ -54,8 +54,18 @@ public class BookSQL {
         return bookArrayList;
     }
 
+    // 只根据ISBN 搜索
+    public static ArrayList<Book> searchByISBN(String ISBN) {
+        ArrayList<Book> bookArrayList = new ArrayList<>();
+        String sql = "SELECT * FROM books where isbn='"  +
+                ISBN + "';";
+        System.out.println(sql);
+        toBook(bookArrayList, sql);
+        return bookArrayList;
+    }
 
-    // 所有图书
+
+    // 查询所有图书
     public static ArrayList<Book> search() {
         ArrayList<Book> bookArrayList = new ArrayList<>();
         String sql = "SELECT * FROM books";
@@ -63,24 +73,18 @@ public class BookSQL {
         return bookArrayList;
     }
 
-    public static void add(String title, String isbn, float price,
+    // 添加图书
+    public static int add(String title, String isbn, float price,
                            int publisherID, int count,
-                           String intro) {
-        String insertBook =
-                "INSERT INTO books (title, isbn, price, pubID, count, intro) VALUES(\"" +
-                title + "\", \"" + isbn +
-                        "\", " + price +
-                        ", " + publisherID +
-                        ", " + count +
-                        ", \"" + intro +
-                "\")";
-
-        try {
-            PreparedStatement  pre = con.prepareStatement(insertBook);
-            pre.executeQuery();
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-
+                           String intro) throws SQLException{
+        String sql = "INSERT INTO books(title, isbn, price, pubID, count, intro) VALUES(?,?,?,?,?,?);";
+        PreparedStatement ps = con.prepareStatement(sql);
+        ps.setString(1, title);
+        ps.setString(2, isbn);
+        ps.setFloat(3, price);
+        ps.setInt(4, publisherID);
+        ps.setInt(5, count);
+        ps.setString(6, intro);
+        return ps.executeUpdate();
     }
 }

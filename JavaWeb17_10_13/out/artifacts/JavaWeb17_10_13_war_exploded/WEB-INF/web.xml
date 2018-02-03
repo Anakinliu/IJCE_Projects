@@ -13,7 +13,7 @@ g       etServletContext().getInitParameter("Age");-->
     </context-param>
     <context-param>
         <param-name>DB_URL</param-name>
-        <param-value>jdbc:mysql://localhost:3306/nopdata</param-value>
+        <param-value>jdbc:mysql://localhost:3306/nopdata?useUnicode=true&amp;characterEncoding=UTF-8</param-value>
     </context-param>
     <context-param>
         <param-name>DB_USER</param-name>

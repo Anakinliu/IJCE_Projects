@@ -1,5 +1,6 @@
 package com.anakinliu.model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
@@ -7,7 +8,7 @@ import java.util.ArrayList;
  * If you only do what you can do,
  * you'll never be more than you are now.
  */
-public class Books {
+public class Books implements Serializable {
     private ArrayList<Book> bookArrayList;
 
 
