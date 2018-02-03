@@ -1,5 +1,6 @@
 package com.anakinliu.servlet.admin;
 
+import com.anakinliu.tools.AdminUserSQL;
 import com.anakinliu.tools.MysqlConnector;
 
 import javax.servlet.RequestDispatcher;
@@ -9,7 +10,9 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.io.IOException;
+import java.io.PrintStream;
 
 /**
  * Created by Anakinliu on 17.11.5.
@@ -20,11 +23,9 @@ import java.io.IOException;
 public class AdminLoginServlet extends HttpServlet {
     private MysqlConnector mysqlConnector;
 
-
-
     @Override
     public void init() throws ServletException {
-        mysqlConnector = MysqlConnector.initMySqlConnector(
+        mysqlConnector = new AdminUserSQL(
                 getServletContext().getInitParameter("JDBC_DRIVER_PATH"),
                 getServletContext().getInitParameter("DB_URL"),
                 getServletContext().getInitParameter("DB_USER"),
@@ -38,17 +39,19 @@ public class AdminLoginServlet extends HttpServlet {
         String pw = req.getParameter("pw");
         String result;
         if (mysqlConnector.check(un, pw, "admin")) {
-            result = "success!";
+            HttpSession session = req.getSession();
+            session.setAttribute("un",un);
+            resp.sendRedirect("/jsps/admin/BookManage.jsp");
         }else {
             result = "failed!";
         }
 
         // 成功时跳转
-        ServletContext app = this.getServletContext();
-        app.setAttribute("result", result);
-        RequestDispatcher rd =
-                app.getRequestDispatcher("/jsps/admin//AdminPanel.jsp");
-        rd.forward(req, resp);
+//        ServletContext app = this.getServletContext();
+//        app.setAttribute("result", result);
+//        RequestDispatcher rd =
+//                app.getRequestDispatcher("/jsps/admin//AdminPanel.jsp");
+//        rd.forward(req, resp);
 
     }
 

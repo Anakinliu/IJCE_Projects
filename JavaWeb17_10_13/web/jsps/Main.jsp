@@ -12,7 +12,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Title</title>
+    <title>Main</title>
     <link rel="stylesheet" href="../css/main.css" type="text/css">
     <%--<link rel="stylesheet" href="../css/bootstrap.css" type="text/css">--%>
     <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -20,11 +20,18 @@
     <script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link href="../css/m.css" rel="stylesheet" type="text/css" />
     <script src="../js/m.js" type="text/javascript"></script>
+
 </head>
 <body>
 
 <%--<p >${userName}</p>--%>
 <%--<p >${lastLoginDate}</p>--%>
+<script>
+    function inBuyer() {
+        var inBuyer = document.getElementById("buyer");
+        inBuyer.style.color = "green";
+    }
 
+</script>
 </body>
 </html>

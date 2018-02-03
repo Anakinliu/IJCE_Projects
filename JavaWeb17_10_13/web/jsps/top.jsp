@@ -21,7 +21,7 @@
     </a>
     <a href="#home">Home</a>
     <a href="#news">News</a>
-    <a href="#contact">Contact</a>
+    <a id="buyer" href="/jsp/cart.jsp">Buyer: <%=session.getAttribute("inBuyer")%> things</a>
     <a href="/LogoutServlet">Logout</a>
 </div>
 

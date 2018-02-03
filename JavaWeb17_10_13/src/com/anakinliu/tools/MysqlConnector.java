@@ -28,15 +28,18 @@ public class MysqlConnector {
     /*
      * 实例化类时就打开数据库连接
      */
-    private MysqlConnector(String path, String url, String user, String pw) {
-        try {
-            // 注册JDBC驱动器，黑人问号？？？
-            Class.forName(path);
-            // 打开数据库的连接
-            con = DriverManager.getConnection(url, user, pw);
-        } catch (Exception e) {
-            e.printStackTrace();
+    protected MysqlConnector(String path, String url, String user, String pw) {
+        if (con == null) {
+            try {
+                // 注册JDBC驱动器，黑人问号？？？
+                Class.forName(path);
+                // 打开数据库的连接
+                con = DriverManager.getConnection(url, user, pw);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
+
     }
 
     public static MysqlConnector initMySqlConnector(String path, String url, String user, String pw) {
@@ -46,7 +49,7 @@ public class MysqlConnector {
     /*
 	 * 连接数据库并检查用户名与密码
 	 */
-    public boolean check(String wUserName, String wPasswd, String wUserType) {
+    public boolean check(String wUserName, String wPasswd, String db) {
 
         boolean flag = false;
         try {
@@ -54,7 +57,7 @@ public class MysqlConnector {
 //			Class.forName(JDBC_DRIVER_PATH);
 
             // 预处理的sql语句
-            String sql = "SELECT username, password FROM " + wUserType;
+            String sql = "SELECT username, password FROM " + db + ";";
 
 //			// 打开数据库的连接
 //			con = DriverManager.getConnection(DB_URL, DB_USER, DB_USER_PASSWD);

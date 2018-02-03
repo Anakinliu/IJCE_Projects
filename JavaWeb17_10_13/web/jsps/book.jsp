@@ -3,7 +3,7 @@
 
 <%--
   Created by IntelliJ IDEA.
-  User: Anakinliu
+  AdminUser: Anakinliu
   Date: 17.11.22
   Time: 8:48
   To change this template use File | Settings | File Templates.
@@ -16,16 +16,18 @@
 <jsp:setProperty name="books" property="bookArrayList"
         value='<%= session.getAttribute("books_list")%>' />
 <%
+    System.out.println(books);
     ArrayList<Book> bookList = books.getBookArrayList();
-    ArrayList<String> titleList = new ArrayList<>();
-    ArrayList<Float> priceList = new ArrayList<>();
-    ArrayList<String> introList = new ArrayList<>();
-    for (Book book : bookList) {
-        titleList.add(book.getTitle());
-        priceList.add(book.getPrice());
-        introList.add(book.getIntro());
-    }
 %>
+//    ArrayList<String> titleList = new ArrayList<>();
+//    ArrayList<Float> priceList = new ArrayList<>();
+//    ArrayList<String> introList = new ArrayList<>();
+//    for (Book book : bookList) {
+//        titleList.add(book.getTitle());
+//        priceList.add(book.getPrice());
+//        introList.add(book.getIntro());
+//    }
+
 
 <div>
     <form  method="POST" action="${pageContext.request.contextPath}/MainServlet"
@@ -58,22 +60,33 @@
     <tbody>
     <%
         int i = 1;
-        while (!titleList.isEmpty()) {
+        while (!bookList.isEmpty()) {
+            Book book = bookList.remove(0);
             out.print("<tr>");
             out.print("<th scope=\"col\">" + i + "</th>");
             out.print("<td>");
-            out.print(titleList.remove(0));
+            out.print(book.getTitle());
             out.print("</td>");
             out.print("<td>");
-            out.print(priceList.remove(0));
+            out.print(book.getPrice());
             out.print("</td>");
             out.print("<td>");
-            out.print(introList.remove(0));
+            out.print(book.getIntro());
+            out.print("</td>");
+            out.print("<td>");
+            out.print(book.getIsbn());
+            out.print("</td>");
+            out.print("<td>");
+            String isbn = book.getIsbn();
+            out.print("<a " + "href=\"/buyer?isbn=" + isbn + "\">BUY NOW!</a>");
             out.print("</td>");
             out.print("</tr>");
             i++;
         }
     %>
+    </tbody>
+</table>
+</div>
     <%--<tr>--%>
         <%--<th scope="col">1</th>--%>
         <%--<td>--%>
@@ -95,6 +108,4 @@
         <%--%>--%>
         <%--</td>--%>
     <%--</tr>--%>
-    </tbody>
-</table>
-</div>
+
