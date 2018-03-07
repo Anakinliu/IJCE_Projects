@@ -33,11 +33,11 @@ public class GenericMethods<E> {
             return t;
         }
 
-        // 基本类型自动装箱
+        // ??????????????
         if (t.getClass().getSuperclass().getSimpleName().equals("Number")) {
-            System.out.println("数值类型:");
+            System.out.println("???????:");
         } else {
-            System.out.println("非数值类型:");
+            System.out.println("?????????:");
         }
         return t;
     }
@@ -61,7 +61,7 @@ public class GenericMethods<E> {
 //        if (chars instanceof Object) {
 //            System.out.println(chars.length + " ge" + new String(chars));
 //        }
-        //new GenericMethods(); //证明static段只加载一次
+        //new GenericMethods(); //???static??????????
        // System.out.println("---");
        // System.out.println(new Integer(chars[0]));
     }
