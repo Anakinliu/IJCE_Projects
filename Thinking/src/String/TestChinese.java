@@ -7,9 +7,9 @@ package String;
  */
 public class TestChinese {
     public static void main(String[] args) {
-        String name = "ÎŞÃûÊÏ";
+        String name = "æ— åæ°";
         System.out.println(name.length());
         System.out.println(name.substring(0, 1));
-        System.out.println(name.contains("ÎŞ"));
+        System.out.println(name.contains("æ— "));
     }
 }

@@ -1,7 +1,6 @@
 package ClassDetails;
 
 import Generics.GenericMethods;
-import org.omg.PortableServer.POAManagerPackage.AdapterInactive;
 
 import java.util.Arrays;
 

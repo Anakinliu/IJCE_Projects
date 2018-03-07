@@ -7,7 +7,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 import static print.Print.print;
-import static sun.misc.Version.println;
+
 
 /**
  * Created by Anakinliu on 2017/7/28.
@@ -28,7 +28,7 @@ class Ex2FibonacciA implements Runnable {
     public void run() {
         for(int i = 0; i < n; i++)
             print(fib(i) + " ");
-        println();
+//        println();
     }
 }
 
@@ -44,7 +44,7 @@ class Ex2FibonacciB implements Runnable {
     public void run() {
         for(int i = 0; i < n; i++)
             print(fib(i) + " ");
-        println();
+//        println();
     }
 }
 
@@ -60,7 +60,7 @@ class Ex2FibonacciC implements Runnable {
     public void run() {
         for(int i = 0; i < n; i++)
             print(fib(i) + " ");
-        println();
+//        println();
     }
 }
 
@@ -76,7 +76,7 @@ class Ex2FibonacciD implements Runnable {
     public void run() {
         for(int i = 0; i < n; i++)
             print(fib(i) + " ");
-        println();
+//        println();
     }
 }
 
