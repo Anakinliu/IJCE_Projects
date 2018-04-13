@@ -43,13 +43,25 @@ public class Cut {
         return q;
     }
 
-//    public static int buttomUpCut(int n) {
-//
-//    }
+    public static int bottomUpCut(int n) {
+        int[] meno = new int[n + 1];  // 保存子问题的解
+        meno[0] = 0;  // 长度0的价钱
+        for (int j = 1; j <= n; j++) {
+            int q = -1;
+            for (int i = 1; i <= j; i++) {
+                q = Math.max(q, prices[i] + meno[j - i]);
+            }
+            meno[j] = q;
+        }
+        return meno[n];
+    }
 
     public static void main(String[] args) {
-        System.out.println(cut(4));
+//        System.out.println(cut(4));
+
 //        int[] meno = new int[]{-1, -1, -1, -1, -1, -1};
 //        System.out.println(menoizedCut(5, meno));
+
+        System.out.println(bottomUpCut(5));
     }
 }
