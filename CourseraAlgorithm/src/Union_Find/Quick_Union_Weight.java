@@ -1,7 +1,5 @@
 package Union_Find;
 
-import com.sun.xml.internal.bind.v2.model.annotation.Quick;
-
 /**
  * Created by Anakinliu on 18.1.27.
  * If you only do what you can do,
