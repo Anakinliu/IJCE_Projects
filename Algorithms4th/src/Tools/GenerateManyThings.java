@@ -11,7 +11,7 @@ import edu.princeton.cs.algs4.StdRandom;
 public final class GenerateManyThings {
 
     private static Out out =
-            new Out("F:\\IJCE\\Algorithms4th\\src\\Fundamentals\\in.txt");
+            new Out("E:\\IJCE\\Algorithms4th\\src\\Fundamentals\\in.txt");
 
     /*
     write int from [0 ~ basicNumber] in counts times
@@ -22,8 +22,10 @@ public final class GenerateManyThings {
         if (counts <= 0) {
             return;
         }
+
+        // 判断参数是整数或者浮点
         final String realType = number.getClass().getSimpleName();
-        final String format ;
+        final String format;
         switch (realType) {
             case "Byte":
             case "Long":
@@ -38,11 +40,13 @@ public final class GenerateManyThings {
             default: format = "%s ";
 
         }
+
         for (int i = 1; i <= counts; i++) {
             out.printf(format, (number.doubleValue() * StdRandom.uniform()));
-            if (i % 7 == 0) {
-                out.println();
-            }
+            // 换行
+//            if (i % 7 == 0) {
+//                out.println();
+//            }
         }
     }
 
@@ -50,6 +54,6 @@ public final class GenerateManyThings {
     }
 
     public static void main(String[] args) {
-        generateAllNumber(4000, 100L);
+        generateAllNumber(50, 100);
     }
 }

@@ -23,6 +23,16 @@ public abstract class Duck {
         quackBehavior.quack();
     }
 
+    // 动态改变行为
+    public void setFlyBehavior(FlyBehavior flyBehavior) {
+        this.flyBehavior = flyBehavior;
+    }
+
+    // 动态改变行为
+    public void setQuackBehavior(QuackBehavior quackBehavior) {
+        this.quackBehavior = quackBehavior;
+    }
+
     public void swim() {
         System.out.println("all kind of dick can float!");
     }
