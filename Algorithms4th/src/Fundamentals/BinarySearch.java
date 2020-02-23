@@ -11,7 +11,7 @@ public class BinarySearch {
        // System.out.println("the key is " + key);
         int low = 0;
         int high = a.length - 1;
-        int mid = 0 ;
+        int mid = 0;
         int steps = 0;
         while (low <= high) {
             mid = low + (high - low) / 2;

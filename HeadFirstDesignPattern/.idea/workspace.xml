@@ -2,235 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a63bdb0-45d7-4105-88bf-f8a19cc6c61c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithms4th/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChineseChess/IntelligentChineseChessSystem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/4K_source.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/CourseraAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/out/production/CourseraAlgorithm/AnalysisOfAlgorithm/in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/src/AnalysisOfAlgorithm/in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/src/Basic/PSE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CourseraAlgorithm/src/Union_Find/Quick_Find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/linux.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/interfaces/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/interfaces/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/real_class/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/real_class/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/real_class/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/real_class/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/.idea/dataSources/3112c554-20df-4438-af56-27fa5f4af41d.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/css/m.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/js/Jump.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/js/m.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/Cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/LoginJump.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/Logup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/LogupJump.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/Main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/admin/AdminLogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/admin/AdminLogup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/admin/AdminPanel.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/admin/BookManage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/admin/addBook.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/book.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/jsps/top.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/out/artifacts/JavaWeb17_10_13_war_exploded/static/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/web/css/m.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/web/js/Jump.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/web/js/m.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/web/jsps/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/web/jsps/LogupJump.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeb17_10_13/web/static/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/LintCodeAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/src/main/Quiz1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/src/main/Quiz510.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/src/main/Quiz539.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/src/main/Quiz9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/.idea/libraries/Spring_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/Spring_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/src/anakinliu/com/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/src/anakinliu/com/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_1/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Thinking/src/HoldingObjects/SetOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Thinking/src/HoldingObjects/SetOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Thinking/src/HoldingObjects/UniqueWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy_Multithreading/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy_Multithreading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy_Multithreading/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy_Multithreading/Udemy_Multithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy_Multithreading/src/S1/DoubleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy_Multithreading/src/S1/PressToStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/With Kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/out/production/With Kotlin/META-INF/With Kotlin.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/src/HelloWorld/Octal literals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../With Kotlin/src/HelloWorld/OctalLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learningMultithreading/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learningMultithreading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learningMultithreading/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learningMultithreading/learningMultithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learningMultithreading/src/MultiThreadingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/Controls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/RailGun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/ActionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/CloseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/CompileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/ExitHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/KeyPressedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/MouseDragEnterHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/MouseDragHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/MouseDragReleaseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/MouseLeftClickedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/NewFileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/OpenBinaryHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/OpenFileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/RunHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/SaveHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/action/TextChangedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/canvas/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/marshal/BinaryFileParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/marshal/CodeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/AbstractShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/Arrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/RGLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/RGRoundRect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/RGText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/shape/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/Bytecode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/Interpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/AddTimerMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/CameraMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/CircleMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/FrameCountMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/InnerMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/KeyMapMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/LenMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/MouseMapMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/RGLineMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/RGRectMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/RGRoundRectMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/RGTextMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/RandomMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/RgbMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/StarMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/intrisinc/UpdateFunctionMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/AbstractBuiltinMethodObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/BuiltinMethodObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/Klass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/ListKlass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/NoneObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/RGFrameObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/RGFunctionObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/RGMethodObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/object/RGObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/time/UserTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/time/UserTimerKlass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/java/org/railgun/vm/time/UserTimerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/ast2pyc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/check_ast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/compile.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/ddl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/ddlib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/ddlib/assem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/ddlib/ddlex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/ddlib/ddyacc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/dsparserlib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/dsparserlib/lex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/dsparserlib/pylex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/env.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/py_src/Grammar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/py_src/tokenizer.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/pyparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/drawCircle.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/drawFlag.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/drawText.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/easySnake.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/eight_number.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/lambda.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/renju.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/snake.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/test3d.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/testClass.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/rg/testMouse.rg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/Assem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/CodeGen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/Scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/SymtableVisitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/const.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_assign_print.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_class.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_comp.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_control.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_datas.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_func.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_if.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_stmt.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_subscr.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_try.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/testfiles/test_with.ldd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/symtable/unit_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test.hy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_class.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_dict.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_for.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_func.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_if.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_import.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_list.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_print.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_try.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/main/python/rgparser/test/test_while.ddl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/test/java/LibraryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/test/python/drawCircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/test/python/drawText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/test/python/eight_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../railgun-master/src/test/rg/drawFlag.rg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms4th/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms4th/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms4th/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms4th/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms4th/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms4th/Algorithms4th.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms4th/Algorithms4th.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CourseraAlgorithm/src/Union_Find/Quick_Union_Weight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CourseraAlgorithm/src/Union_Find/Quick_Union_Weight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LintCodeAlgorithm/src/help/Cut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LintCodeAlgorithm/src/help/Cut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Thinking/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Thinking/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Thinking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Thinking/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/pythonet/Start/real_class/FlyWithRocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChineseChess/IntelligentChineseChessSystem" beforeDir="false" afterPath="$PROJECT_DIR$/../ChineseChess/IntelligentChineseChessSystem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/pythonet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/pythonet/Start/real_class/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/pythonet/Start/real_class/MiniDuckSimulator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,28 +19,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/pythonet/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Duck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+            <state relative-caret-position="744">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
                 <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -272,8 +36,20 @@
       <file leaf-file-name="MiniDuckSimulator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/MiniDuckSimulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="100">
+              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlyWithRocket.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/FlyWithRocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -283,10 +59,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="403">
               <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -315,7 +87,7 @@
             <state relative-caret-position="341">
               <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
-                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -326,10 +98,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="279">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -356,8 +124,9 @@
         <option value="$PROJECT_DIR$/src/top/pythonet/Start/Quack.java" />
         <option value="$PROJECT_DIR$/src/top/pythonet/Start/FlyBehavior.java" />
         <option value="$PROJECT_DIR$/src/top/pythonet/Start/interfaces/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java" />
         <option value="$PROJECT_DIR$/src/top/pythonet/Start/real_class/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/top/pythonet/Start/real_class/FlyWithRocket.java" />
+        <option value="$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java" />
         <option value="$PROJECT_DIR$/src/top/pythonet/Start/real_class/MiniDuckSimulator.java" />
       </list>
     </option>
@@ -373,15 +142,15 @@
     <option name="width" value="440" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,32 +167,27 @@
               <item name="HeadFirstDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirstDesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonet" type="462c0819:PsiDirectoryNode" />
               <item name="Start" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HeadFirstDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirstDesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonet" type="462c0819:PsiDirectoryNode" />
               <item name="Start" type="462c0819:PsiDirectoryNode" />
-              <item name="real_class" type="462c0819:PsiDirectoryNode" />
+              <item name="abstract_class" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithms4th" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -496,44 +260,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523628487983</updated>
-      <workItem from="1523628491356" duration="1645000" />
+      <workItem from="1523628491356" duration="3270000" />
+      <workItem from="1525091662602" duration="78000" />
     </task>
+    <task id="LOCAL-00001" summary="head first design pattern CODE">
+      <created>1523630216307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523630216307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1645000" />
+    <option name="totallyTimeSpent" value="3348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33067274" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33067274" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,15 +319,78 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="head first design pattern CODE" />
+    <option name="LAST_COMMIT_MESSAGE" value="head first design pattern CODE" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="744">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/FlyWithRocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/interfaces/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/interfaces/QuackBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/MiniDuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/interfaces/FlyBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -580,10 +416,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -592,42 +431,37 @@
         <state relative-caret-position="341">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
-            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/abstract_class/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        <state relative-caret-position="744">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/MallardDuck.java">
+    <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/FlyWithRocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="341">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top/pythonet/Start/real_class/MiniDuckSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="100">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>

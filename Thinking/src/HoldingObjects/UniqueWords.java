@@ -10,8 +10,8 @@ import java.util.TreeSet;
 */
 public class UniqueWords {
     public static void main(String[] args) {
-        Set<String> words = new TreeSet<>(
-                new TextF
-        )
+//        Set<String> words = new TreeSet<>(
+//                new TextF
+//        )
     }
 }
