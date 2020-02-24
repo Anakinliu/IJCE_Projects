@@ -22,6 +22,9 @@ public class MethodReference {
         List<String> lst = new ArrayList<>();
         lst.add("Tom");
         lst.add("Jerry");
-        lst.forEach(new MethodReference()::change);
+        MethodReference methodReference = new MethodReference();
+        lst.forEach(methodReference::change);
+        // 相同效果
+        lst.forEach(s -> methodReference.change(s));
     }
 }
