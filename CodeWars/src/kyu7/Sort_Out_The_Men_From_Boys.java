@@ -1,6 +1,7 @@
 package kyu7;
 
 import java.util.*;
+import java.util.function.Function;
 
 /*
     AUTHOR: linux
@@ -44,8 +45,18 @@ public class Sort_Out_The_Men_From_Boys {
         return Arrays.stream(values)
                 .distinct()
                 .boxed()
-                .sorted(Comparator.comparing(i -> i % 2 == 0 ? i : -i))
-                .sorted(Comparator.comparing(i -> Math.abs(i % 2)))
+                .sorted(Comparator.comparing(new Function<Integer, Integer>() {
+                    @Override
+                    public Integer apply(Integer i) {
+                        return i % 2 == 0 ? i : -i;
+                    }
+                })) // [17, -2, 1, 10, -15]
+                .sorted(Comparator.comparing(new Function<Integer, Integer>() {
+                    @Override
+                    public Integer apply(Integer i) {
+                        return Math.abs(i % 2);  //偶数是0， 奇数是1，所以奇数放到后面
+                    }
+                })) // [-2, 10, 17, 1, -15]
                 .mapToInt(i -> i)
                 .toArray();
     }
@@ -53,6 +64,7 @@ public class Sort_Out_The_Men_From_Boys {
     // 算法大神
     public static int[] menFromBoys3(final int[] values) {
         int[] result;
+        // TreeSet自带排序功能
         Set<Integer> evenSet = new TreeSet<>();
         Set<Integer> oddSet = new TreeSet<>();
 
@@ -81,7 +93,8 @@ public class Sort_Out_The_Men_From_Boys {
 
     public static void main(String[] args) {
 //        System.out.println(-6 % 2);
-        int[] test = new int[]{2,15,17,15,2,10,10,17,1,1};
-        System.out.println(Arrays.toString(menFromBoys(test)));
+        int[] test = new int[]{-2,17,-15,10,1};
+//        System.out.println(Arrays.toString(menFromBoys(test)));
+        System.out.println(Arrays.toString(menFromBoys2(test)));
     }
 }
