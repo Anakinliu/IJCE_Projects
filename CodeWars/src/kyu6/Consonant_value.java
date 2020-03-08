@@ -6,7 +6,7 @@ package kyu6;
     GOOD LUCK AND NO BUG.
 */
 /*
-返回连续的辅音组成的子字符串的值
+返回连续的辅音组成的子字符串的最大值
 
 元音 aeiou
  */
