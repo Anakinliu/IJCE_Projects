@@ -69,6 +69,26 @@ public class Some_Egyptian_fractions {
         return res.toString();
     }
 
+    // 和我一开始写的类似， 这里使用分子乘，而非分母除，避免了出现很小的数，妙啊
+    public static String decompose2(String nrStr, String drStr) {
+        long a = Integer.parseInt(nrStr);
+        long b = Integer.parseInt(drStr);
+        long denum = 2;
+        String s;
+        if (a>b){
+            s = ", "+a/b;
+            a %= b;
+        } else s = "";
+        while(a>0){
+            if (a*denum>=b){
+                s += ", 1/"+denum;
+                a = a*denum-b;
+                b *= denum;
+            }
+            denum++;
+        }
+        return s.isEmpty()?"[]":"["+s.substring(2)+"]";
+    }
     public static void main(String[] args) {
         System.out.println(decompose("50", "4187"));
 //        System.out.println(decompose("21", "23"));
