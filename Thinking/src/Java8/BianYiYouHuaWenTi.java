@@ -5,7 +5,6 @@ package Java8;
  * If you only do what you can do,
  * you'll never be more than you are now.
  */
-import kotlin.jvm.Synchronized;
 
 import java.util.concurrent.*;
 

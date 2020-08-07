@@ -8,7 +8,7 @@ package test6;
 import kyu6.MultiplesOf3Or5;
 import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MultiplesOf3Or5Test {
     @Test

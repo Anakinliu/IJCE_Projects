@@ -17,6 +17,6 @@ public class Compare_Demo implements Comparable {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("compare");
     }
 }
