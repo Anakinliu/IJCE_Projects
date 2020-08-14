@@ -21,7 +21,7 @@ public class ParkingStats {
 
     public void carGoOut() {
         numberCars--;
-        cash.vehiclepay();
+        cash.vehiclePay();
     }
 
     public void motoComeIn() {
@@ -30,7 +30,7 @@ public class ParkingStats {
 
     public void motoGoOut() {
         numberMotocycles --;
-        cash.vehiclepay();
+        cash.vehiclePay();
     }
 
     public long getNumberCars() {

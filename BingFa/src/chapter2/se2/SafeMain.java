@@ -1,14 +1,14 @@
 package chapter2.se2;
 
-public class Main {
+public class SafeMain {
     public static void main(String[] args) {
-        ParkingCash cash = new ParkingCash();
-        ParkingStats stats = new ParkingStats(cash);
+        SafeParkingCash cash = new SafeParkingCash();
+        SafeParkingStats stats = new SafeParkingStats(cash);
         System.out.println("###Parking start###");
         int numberSensors = 8;
         Thread threads[] = new Thread[numberSensors];
         for (int i = 0; i < numberSensors; i++) {
-            Sensor sensor = new Sensor(stats);
+            SafeSensor sensor = new SafeSensor(stats);
             Thread thread = new Thread(sensor);
             thread.start();
             threads[i] = thread;
